@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/2-data-warehousing-concepts/6-reason-to-build-dw/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "2. Data Warehousing Concepts",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "6. Reason for You to Build a Data Warehouse",
+    "video.length": 3,
+    "time.comsuming": 30,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-15T02:57:07Z",
     "tag": [
-      "warehouse","data","concept"
+      "warehouse","data","concept","bi","reason","data-driven","decision"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728274#content",
+    "description": "Explaining the Two Reasons to Build a Data Warehouse: Data-Driven Decision Making and One-Stop Shop."
   }

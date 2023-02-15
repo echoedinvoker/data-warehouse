@@ -84,6 +84,10 @@
 
   - Each suggestion does not need to be the same.
 
+- This method must be used as a last resort.
+
+  - We still recommend the simpler the structure, the better.
+
 ## **Overview**
 
 ![Alt overview](pic/14.jpg)

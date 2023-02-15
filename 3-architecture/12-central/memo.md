@@ -24,7 +24,7 @@
 
 ![Alt today's challenges](pic/04.jpg)
 
-**Still Challenge**
+**Still Challenge: organizational & human factor**
 
 - The nature of centralized DW requires a high degree of cooperation between organizations. (It's hard)
 

@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/3-architecture/13-compare-to-mart/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "3. Data Warehousing Architecture",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "13. Compare a Data Warehouse to a Data Mart",
+    "video.length": 6,
+    "time.comsuming": 26,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-15T21:01:10Z",
     "tag": [
-      "warehouse","data","architecture"
+      "warehouse","data","architecture","versus","mart","dependent","independent"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728434#content",
+    "description": "Explain what Data Mart is and how it differs from other parts."
   }

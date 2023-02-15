@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/3-architecture/14-which-component-based-arh/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "3. Data Warehousing Architecture",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "14. Decide Which Compoenent-Based Architecture is Your Best Fit",
+    "video.length": 11,
+    "time.comsuming": 63,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-15T22:13:41Z",
     "tag": [
-      "warehouse","data","architecture"
+      "warehouse","data","architecture","option","choose","decision","branch","tree"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728442#content",
+    "description": "Explains how to choose between different architectures to find the one that best meets your needs."
   }

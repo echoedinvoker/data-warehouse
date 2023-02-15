@@ -22,7 +22,7 @@
 
 - So the original app system will still keep the data.
 
-# ***Know the RULEs**
+# ***Know the RULEs***
 
 ## **Who and When build the rules?**
 

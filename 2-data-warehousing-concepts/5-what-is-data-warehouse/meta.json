@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/2-data-warehousing-concepts/5-what-is-data-warehouse/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "2. Data Warehousing Concepts",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "What is a Data Warehouse?",
+    "video.length": 4,
+    "time.comsuming": 40,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-14T22:45:22Z",
     "tag": [
-      "warehouse","data","concept"
+      "warehouse","data","concept","rule","what"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728264#content",
+    "description": "Define what a Data Warehouse is and explain its basic features and rules."
   }

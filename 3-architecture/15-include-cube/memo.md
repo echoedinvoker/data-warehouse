@@ -6,6 +6,8 @@
 
 ![Alt What is cube](pic/02.jpg)
 
+- The definition of 'small' is under 100GB.
+
 ## **Advantages of Cube**
 
 ![Alt advantages](pic/03.jpg)

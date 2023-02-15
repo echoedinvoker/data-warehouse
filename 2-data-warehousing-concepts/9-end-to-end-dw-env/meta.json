@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/2-data-warehousing-concepts/8-compare-to-data-virtualization/memo.md",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/2-data-warehousing-concepts/9-end-to-end-dw-env/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "2. Data Warehousing Concepts",
-    "section": "8. Compare a Data Warehouse to Data Virtualization",
-    "video.length": 4,
-    "time.comsuming": 37,
+    "section": "9. Look at a Simple End-to-End Data Warehousing Environement",
+    "video.length": 2,
+    "time.comsuming": 18,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "2023-02-15T06:07:11Z",
+    "register.time": "2023-02-15T06:34:08Z",
     "tag": [
-      "warehouse","data","concept","virtualization","compare","DDBMS","history"
+      "warehouse","data","concept","end","etl","mart","flow","analogy","retailer"
     ],
-    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728284#content",
-    "description": "Explain the difference between Data Warehouse and Data Virtualization."
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728292#content",
+    "description": "Explain End-to-End data flow block, and add ETL and Data Mart blocks."
   }

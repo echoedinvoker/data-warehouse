@@ -1,0 +1,17 @@
+{
+    "category-v2.single.toJob": "data-warehouse",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/3-architecture/12-central/memo.md",
+    "course": "Data Warehouse Fundamentals for Beginners",
+    "chapter": "3. Data Warehousing Architecture",
+    "section": "12. Build a Centralized Data Warehouse",
+    "video.length": 4,
+    "time.comsuming": 30,
+    "lecturer.name.first": "Alan",
+    "lecturer.name.last": "Simon",
+    "register.time": "2023-02-15T08:34:40Z",
+    "tag": [
+      "warehouse","data","architecture","central"
+    ],
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728412#content",
+    "description": "Introducing the most classic Data Warehouse architecture - centralized data warehouse."
+  }

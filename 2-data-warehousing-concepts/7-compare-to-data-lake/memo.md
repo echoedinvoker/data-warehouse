@@ -26,6 +26,8 @@
 
 ![Alt Difference: 3V's - Velocity](pic/05.jpg)
 
+Big data support to absorb or update data at a very fast rate.
+
 **Variety**
 
 ![Alt Difference: 3V's - Variety](pic/06.jpg)

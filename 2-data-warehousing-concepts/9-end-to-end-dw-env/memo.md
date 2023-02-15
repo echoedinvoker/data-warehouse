@@ -4,6 +4,8 @@
 
 ## **ETL**
 
+> The flow of data between different blocks is done through ETL.
+
 ![Alt etl](pic/02.jpg)
 
 ![Alt what is etl](pic/03.jpg)

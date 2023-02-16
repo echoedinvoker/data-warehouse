@@ -10,6 +10,8 @@
 
 ![Alt user access layer](pic/03.jpg)
 
+- We have often heard of snowflake patterns, dimension tables, fact tables, etc. being constructed in this layer.
+
 ![Alt overview pic](pic/04.jpg)
 
 ## **What kind of tables in Staging Layer**

@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/3-architecture/15-include-cube/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "3. Data Warehousing Architecture",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "15. Incude Cubes in Your Data Warehousing Environment",
+    "video.length": 4,
+    "time.comsuming": 25,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-15T22:55:43Z",
     "tag": [
-      "warehouse","data","architecture"
+      "warehouse","data","architecture","cube","fast","rigid","plateform","retail"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728568#content",
+    "description": "Introducing another option for building platforms - Cube."
   }

@@ -6,6 +6,10 @@
 
 ![Alt staging layer](pic/02.jpg)
 
+- In addition to "E" for ETL, there may be a small amount of "T" based on demand.
+
+- Users will not access data from here.
+
 ### _User Access Layer_
 
 ![Alt user access layer](pic/03.jpg)
@@ -32,6 +36,3 @@
 
 - It is not impossible to implement many-to-one method, but need to ensure that the data is uniform, but in reality, the format of different data sources is usually not uniform.
 
-## **ETL from Data source to staging layer**
-
-![Alt ETL focus on E and minus T](pic/10.jpg)

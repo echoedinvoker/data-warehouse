@@ -3,7 +3,7 @@
 ![Alt ods](pic/03.jpg)
 
 - Like Data Warehouse, it collects data from multiple sources
-    
+
   - but in real time rather than in batches
 
   - and stores only current data and no historical data.

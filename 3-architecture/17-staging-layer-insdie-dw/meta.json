@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/3-architecture/17-staging-layer-insdie-dw/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "3. Data Warehousing Architecture",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "17. Explore the Role of the Staging Layer Inside a Data Warehouse",
+    "video.length": 7,
+    "time.comsuming": 34,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-16T21:44:14Z",
     "tag": [
-      "warehouse","data","architecture"
+      "warehouse","data","architecture","layer","inside","staging","land","one-to-one","table"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728588#content",
+    "description": "Introduce the layers inside the Data Warehouse, and mainly explain the staging area part."
   }

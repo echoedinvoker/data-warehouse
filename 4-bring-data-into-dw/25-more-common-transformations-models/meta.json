@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/4-bring-data-into-dw/25-more-common-transformations-models/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "4. Bring Data Into Your Data Warehouse",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "25. More Common Transformations Within ETL",
+    "video.length": 6,
+    "time.comsuming": 25,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-17T21:29:07Z",
     "tag": [
-      "warehouse","data","bring"
+      "warehouse","data","bring","model","uniform","slice","filter","correct"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728698#content",
+    "description": "Introduce other models about ETL's \"T\" \(work that often needs to be done\)"
   }

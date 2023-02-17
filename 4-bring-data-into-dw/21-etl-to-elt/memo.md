@@ -32,6 +32,8 @@
 
 ![Alt features of elt](pic/08.jpg)
 
+- Dump the data directly into the database before doing any transformation.
+
 - "Schema on read" means that the creation of a Schema can be deferred until the data needs to be read.
 
 ## **Conclusion**

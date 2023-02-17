@@ -6,6 +6,8 @@
 
 ![Alt dropping columns](pic/02.jpg)
 
+- Columns that are not meaningful to the user (the person who will actually access the DW for analysis) should not go into the DW, even if they are meaningful to the department that is the source of the data.
+
 ![Alt dropping columns dm](pic/03.jpg)
 
 ### _Value-based Row Filtering (Horizontal Slicing)_

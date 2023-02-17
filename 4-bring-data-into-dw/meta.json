@@ -2,7 +2,7 @@
     "category-v2.single.toJob": "data-warehouse",
     "git.link": "",
     "course": "Data Warehouse Fundamentals for Beginners",
-    "chapter": "3. Data Warehousing Architecture",
+    "chapter": "4. Bring Data Into Your Data Warehouse",
     "section": "",
     "video.length": ,
     "time.comsuming": ,
@@ -10,7 +10,7 @@
     "lecturer.name.last": "Simon",
     "register.time": "",
     "tag": [
-      "warehouse","data","architecture"
+      "warehouse","data","bring"
     ],
     "video.link": "",
     "description": ""

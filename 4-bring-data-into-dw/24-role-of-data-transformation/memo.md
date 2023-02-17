@@ -2,6 +2,8 @@
 
 ![Alt uniformity](pic/01.jpg)
 
+- The user must be able to easily access uniform data without having to care about the format of the data source or anything like that.
+
 ![Alt restructuring](pic/02.jpg)
 
 ## **Common Transformation models**

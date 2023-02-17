@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/4-bring-data-into-dw/22-design-initial-load-etl/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "4. Bring Data Into Your Data Warehouse",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "22. Design the Initial Load ETL",
+    "video.length": 4,
+    "time.comsuming": 20,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-17T09:38:35Z",
     "tag": [
-      "warehouse","data","bring"
+      "warehouse","data","bring","etl","initial"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728684#content",
+    "description": "Intro two types of ETL, and focus on initial ETL."
   }

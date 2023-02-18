@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/5-build-blocks/32-compare-diff-forms-of-additivity-in-facts/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "5. Data Warehouse Design: Building Blocks",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "32. Compare Different Forms of Additivity in Facts",
+    "video.length": 6,
+    "time.comsuming": 41,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-18T05:05:53Z",
     "tag": [
-      "warehouse","data","build","block"
+      "warehouse","data","build","block","additive","store","underscore"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728882#content",
+    "description": "Explain the different types of saving facts to the fact table."
   }

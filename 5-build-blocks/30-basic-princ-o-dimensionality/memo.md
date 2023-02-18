@@ -1,6 +1,10 @@
 ## **How to making data-driven decisions**
 
+> What kind of data will help us get data-driven decisions.
+
 ![Alt how to making data-driven decisions with dimenstion](pic/01.jpg)
+
+### _Example starting with pure measurement_
 
 ![Alt pure measurement](pic/02.jpg)
 
@@ -20,4 +24,8 @@
 
 ![Alt another implied for](pic/10.jpg)
 
+## **Conclusion**
+
 ![Alt critical lesson](pic/11.jpg)
+
+- Dimensional modeling is the fundamental point, and if we do a good job of filtering and grouping our measurements, we can easily derive insights that drive decisions.

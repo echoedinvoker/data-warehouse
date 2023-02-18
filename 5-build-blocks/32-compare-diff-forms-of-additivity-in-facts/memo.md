@@ -22,6 +22,8 @@
 
 ![Alt examples of non-additive fact ](pic/06.jpg)
 
+- As mentioned above, you can still do any calculation on these values as long as you think the result is meaningful to you, "non-additive" is for its nature.
+
 ## **Non-additive facts**
 
 ![Alt typical non-additive fact](pic/07.jpg)

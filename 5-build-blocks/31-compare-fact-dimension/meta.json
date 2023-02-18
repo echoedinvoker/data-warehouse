@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/5-build-blocks/31-compare-fact-dimension/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "5. Data Warehouse Design: Building Blocks",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "31. Compare Facts, Fact Tables, Dimensions, and Dimension Tables",
+    "video.length": 5,
+    "time.comsuming": 43,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-18T03:17:32Z",
     "tag": [
-      "warehouse","data","build","block"
+      "warehouse","data","build","block","hierarchy","dimension","table","fact","level","imprecise","compare"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728874#content",
+    "description": "Compare the differences between facts, fact tables, dimensions, dimension tables."
   }

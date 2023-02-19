@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/6-design-fact-dimension-table/45-accumulating-snapshot-example/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "45. Accumulating Snapshot Fact Table Example",
+    "video.length": 7,
+    "time.comsuming": 32,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T21:01:27Z",
     "tag": [
-      "warehouse","data","design","table"
+      "warehouse","data","design","table","process","example","sample","day by day","observe","track","accumulate","snapshot","fact"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729264#content",
+    "description": "Using real-world examples to explain Accumulating snapshot fact table."
   }

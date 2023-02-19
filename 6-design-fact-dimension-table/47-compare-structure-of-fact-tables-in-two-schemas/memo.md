@@ -15,3 +15,7 @@
 ![Alt need to links to every level?](pic/04.jpg)
 
 ![Alt correct snowflake](pic/05.jpg)
+
+- The BI tool will automatically help us to relate to higher-level dimension tables for analysis.
+
+- If you are writing your own SQL script to do analysis, you may have to use more complex multi-layer syntax.

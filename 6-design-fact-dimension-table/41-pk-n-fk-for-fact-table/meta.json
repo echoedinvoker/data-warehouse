@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/6-design-fact-dimension-table/41-pk-n-fk-for-fact-table/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "41. Primary and Foreign Keys for Fact Tables",
+    "video.length": 5,
+    "time.comsuming": 32,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T06:34:39Z",
     "tag": [
-      "warehouse","data","design","table"
+      "warehouse","data","design","table","fact","key","primary","natural","relate"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729238#content",
+    "description": "Explain how to generate or use primary and foreign keys in fact tables"
   }

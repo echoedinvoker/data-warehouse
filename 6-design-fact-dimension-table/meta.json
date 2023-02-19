@@ -2,7 +2,7 @@
     "category-v2.single.toJob": "data-warehouse",
     "git.link": "",
     "course": "Data Warehouse Fundamentals for Beginners",
-    "chapter": "5. Data Warehouse Design: Building Blocks",
+    "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
     "section": "",
     "video.length": ,
     "time.comsuming": ,
@@ -10,7 +10,7 @@
     "lecturer.name.last": "Simon",
     "register.time": "",
     "tag": [
-      "warehouse","data","build","block"
+      "warehouse","data","design","table"
     ],
     "video.link": "",
     "description": ""

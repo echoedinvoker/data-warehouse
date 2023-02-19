@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/5-build-blocks/34-database-keys-for-dw/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "5. Data Warehouse Design: Building Blocks",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "34. Database Keys for Data Warehouse",
+    "video.length": 9,
+    "time.comsuming": 40,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T02:56:45Z",
     "tag": [
-      "warehouse","data","build","block"
+      "warehouse","data","build","block","key","primary","foreign","surrogate","natural","discard","relate"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728892#content",
+    "description": "Introduce how to relate different tables in RDBMS and Data Warehouse."
   }

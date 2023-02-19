@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/6-design-fact-dimension-table/38-four-main-types-of-dw-fact-tables/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "38. The Four Main Types of Data Warehousing Fact Tables",
+    "video.length": 2,
+    "time.comsuming": 15,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T04:21:30Z",
     "tag": [
-      "warehouse","data","design","table"
+      "warehouse","data","design","table","fact","type","intro"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729218#overview",
+    "description": "A brief introduction to the four types of fact tables."
   }

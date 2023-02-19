@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/6-design-fact-dimension-table/44-accumulating-snapshot-fact-tables/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "44. The Role of Accumulating Snapshot Fact Tables",
+    "video.length": 9,
+    "time.comsuming": 39,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T13:06:04Z",
     "tag": [
-      "warehouse","data","design","table"
+      "warehouse","data","design","table","elapse","process","stage","accumulate","snapshot","fact"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729254#content",
+    "description": "Explain what is accumulating snapshot fact table."
   }

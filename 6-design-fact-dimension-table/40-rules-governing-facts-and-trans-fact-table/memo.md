@@ -1,6 +1,10 @@
 ## **What's the Rules?**
 
+> Continuing from the previous lecture, the rule of putting multiple facts into the same table.
+
 ![Alt what's rules?](pic/01.jpg)
+
+### _Both of the following rules must be met_
 
 ![Alt rule #1](pic/02.jpg)
 
@@ -27,3 +31,5 @@
 ## **Example of different Grain**
 
 ![Alt example of false rule #2](pic/11.jpg)
+
+- The grain size of the two facts must be identical to meet rule #1.

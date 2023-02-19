@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/5-build-blocks/33-compare-start-t-snowflake/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "5. Data Warehouse Design: Building Blocks",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "33. Compare a Star Schema to a Snowflake Schema",
+    "video.length": 7,
+    "time.comsuming": 58,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-18T06:13:10Z",
     "tag": [
-      "warehouse","data","build","block"
+      "warehouse","data","build","block","normalize","compare","schema","star","snowflake","hierarchy","level"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17728890#content",
+    "description": "Compare the difference between Star Schema and Snowflake Schema."
   }

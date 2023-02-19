@@ -2,6 +2,8 @@
 
 ![Alt concepts](pic/01.jpg)
 
+- We will explain the rules in other lectures.
+
 ## **Store a Fact**
 
 ![Alt there is a fact](pic/02.jpg)
@@ -27,3 +29,5 @@
 ![Alt what we do](pic/08.jpg)
 
 ![Alt more clear pic](pic/09.jpg)
+
+- We will use the suffix "DIM" or "Fact" in the table name to make it clear at a glance what kind of table.

@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/6-design-fact-dimension-table/43-periodic-snapshots-n-semi-additive-facts/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "6. Design Facts, Fact Tables, Dimensions, and Dimension Tables",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "43. Periodic Snapshots and Semi-Additive Facts",
+    "video.length": 6,
+    "time.comsuming": 25,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-19T08:14:01Z",
     "tag": [
-      "warehouse","data","design","table"
+      "warehouse","data","design","table","period","snapshot","semi","additive","operation"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729250#content",
+    "description": "Explain what a semi-additive fact is and how we can operate it in correct ways"
   }

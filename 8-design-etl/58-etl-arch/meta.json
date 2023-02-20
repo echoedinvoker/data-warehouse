@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/8-design-etl/58-etl-arch/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "8. Designing Your ETL",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "58. Build your ETL Design from your ETL Architecture",
+    "video.length": 6,
+    "time.comsuming": 30,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-20T20:51:37Z",
     "tag": [
-      "warehouse","etl"
+      "warehouse","etl","concept","best","practice","guideline","focus","rule"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729338#content",
+    "description": "Explain the factors that affect the ETL design approach and the guidelines that should be followed."
   }

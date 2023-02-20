@@ -18,6 +18,8 @@
 
 - Although the Type 2 SCD change should be executed in the next stage according to the steps sequence, it is possible that the Type 2 SCD was executed in the previous ETL, so this situation may happen.
 
+- We may have the misconception that Type 1 SCD or Type 2 SCD should be different tables, but in fact different update rules may be used for different columns in the same table.
+
 ![Alt example of multiple row need to be correct 1](pic/05.jpg)
 
 ![Alt example of multiple row need to be correct 2](pic/06.jpg)

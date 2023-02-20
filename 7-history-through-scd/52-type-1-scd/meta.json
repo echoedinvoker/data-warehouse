@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/7-history-through-scd/52-type-1-scd/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "7. Managing Data Warehouse History Through Slowly Changing Dimensions",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "52. Design a Type 1 SCD",
+    "video.length": 4,
+    "time.comsuming": 15,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-20T05:44:42Z",
     "tag": [
-      "warehouse","slow","change","history"
+      "warehouse","slow","change","history","one","type-1"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729310#content",
+    "description": "Describe how to design a type 1 SCD and its advantages and disadvantages."
   }

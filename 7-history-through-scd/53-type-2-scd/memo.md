@@ -20,7 +20,7 @@
 
 ## **Correct reporting**
 
-### _Bad practice: using natural keys**
+### _Bad practice: using natural keys_
 
 ![Alt correct reporting 1](pic/06.jpg)
 

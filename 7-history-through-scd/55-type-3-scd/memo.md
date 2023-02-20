@@ -30,6 +30,8 @@
 
 ![Alt solution of report](pic/07.jpg)
 
+- Using Type 3 SCD, it is very easy to query the data needed for the report by using the previous and current fields.
+
 ## **Limitations of Type 3 SCD**
 
 ![Alt type 3 scd limitations](pic/08.jpg)

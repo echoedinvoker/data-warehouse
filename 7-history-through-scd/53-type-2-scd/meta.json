@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/7-history-through-scd/53-type-2-scd/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "7. Managing Data Warehouse History Through Slowly Changing Dimensions",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "53. Design a Type 2 SCD",
+    "video.length": 8,
+    "time.comsuming": 46,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-20T06:56:12Z",
     "tag": [
-      "warehouse","slow","change","history"
+      "warehouse","slow","change","history","complicate","correct","sql","multi","type-2","version","current"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729312#content",
+    "description": "Explains what Type 2 SCD is and how the complications it brings should be corrected correctly."
   }

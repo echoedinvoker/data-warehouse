@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/7-history-through-scd/51-scd-n-dw-history/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "7. Managing Data Warehouse History Through Slowly Changing Dimensions",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "51. Slowly Changing Dimensions (SCDs) and Data Warehouse History",
+    "video.length": 5,
+    "time.comsuming": 21,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-20T05:24:32Z",
     "tag": [
-      "warehouse","slow","change","history"
+      "warehouse","slow","change","history","type","focus","concept"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729308#content",
+    "description": "Introduce what is Slowly Changing Dimension table and its types."
   }

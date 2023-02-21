@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/8-design-etl/61-type-2-scd-change/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "8. Designing Your ETL",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "61. Process SCD Type 2 Changes to a Dimension Table",
+    "video.length": 3,
+    "time.comsuming": 12,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-20T22:21:18Z",
     "tag": [
-      "warehouse","etl"
+      "warehouse","etl","type-2","scd"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729352#content",
+    "description": "Explain how to handle Type 2 SCD changes."
   }

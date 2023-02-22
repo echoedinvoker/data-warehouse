@@ -1,17 +1,17 @@
 {
     "category-v2.single.toJob": "data-warehouse",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/data-warehouse/blob/master/8-design-etl/62-etl-for-fact-table/memo.md",
     "course": "Data Warehouse Fundamentals for Beginners",
     "chapter": "8. Designing Your ETL",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "62. Design ETL for Fact Tables",
+    "video.length": 9,
+    "time.comsuming": 60,
     "lecturer.name.first": "Alan",
     "lecturer.name.last": "Simon",
-    "register.time": "",
+    "register.time": "2023-02-21T03:51:14Z",
     "tag": [
-      "warehouse","etl"
+      "warehouse","etl","fact","relevant","date","natural","key","type-2"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/learn/lecture/17729364#content",
+    "description": "Explain the things to note about ETL for fact tables, especially when the related dimension table has multiple versions of data (type 2 SCD)"
   }
